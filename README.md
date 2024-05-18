@@ -1,6 +1,6 @@
 # Key Logger with Email Notification
 
-This project is a simple key logger application that logs keystrokes and sends them via email. It runs in the background, capturing keystrokes and periodically sending them to a specified email address. Additionally, it captures URLs visited in web browsers and includes them in the email notification.
+This project is a simple key logger application that logs keystrokes and sends them via email. It runs in the background, capturing keystrokes and periodically sending them to a specified email address. Additionally, it captures URLs visited in web browsers,,Screenshots and the user live location and includes them in the email notification.
 
 ## Features
 
